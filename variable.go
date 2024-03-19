@@ -54,5 +54,6 @@ func main() {
 	// using this we don't have to use the var keyword or declare variable type
 
 	name := "ishma faraj"
+
 	fmt.Println(reflect.TypeOf(name))
 }
